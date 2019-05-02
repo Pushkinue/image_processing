@@ -1,5 +1,5 @@
-# Image Proccesing
-Image Proccesing Labs for UrFU
+# Image Processing
+Image Processing Labs for UrFU
 
 Author: Teslenko Denis
 
