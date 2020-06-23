@@ -1,6 +1,2 @@
 # Image Processing
-Image Processing Labs for UrFU
-
-Author: Teslenko Denis
-
-Group: RIM-181228
+Лабораторные работы по предмету «Методы анализа и обработки изображений» магистратуры УрФУ.
